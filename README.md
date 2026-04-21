@@ -2,28 +2,31 @@
 
 ## 🚀 Full Stack Developer | CSE Student | AI/ML Enthusiast
 
-I'm a Computer Science and Engineering student passionate about building scalable web applications, solving real-world problems, and continuously improving my skills in software development, AI/ML, and system design.
+Computer Science and Engineering student at KIIT University focused on building scalable web applications and AI-powered systems. Experienced in backend development, NLP, and computer vision with a strong interest in real-world problem solving.
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 CSE Student at KIIT University
-- 💻 Full Stack Developer with experience in building real-world projects
-- 🧠 Interested in AI/ML, Web Development, and Problem Solving
-- 🚀 Focused on internships, impactful projects, and strong placements
-- 📚 Always learning and improving
+- 🎓 B.Tech CSE @ KIIT University (2023–2027)
+- 💻 Full Stack Developer (Flask, Node.js)
+- 🧠 Working on AI/ML (NLP, Computer Vision)
+- 🚀 Built real-world projects and led product development
+- 📈 Focused on internships and strong placements
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" />
+  <a href="https://www.linkedin.com/in/sankalp-h-8162772b1" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" />
+  <a href="mailto:sankalphota10c28@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://github.com/sankalpcodes-alt" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
 
@@ -33,49 +36,56 @@ I'm a Computer Science and Engineering student passionate about building scalabl
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,c,sql" />
 </p>
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+  <img src="https://skillicons.dev/icons?i=flask,nodejs" />
 </p>
 
-### Tools & Platforms
+### AI/ML
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma" />
+  NLP, Computer Vision
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 Deepfake Detection System
-AI-powered system to detect manipulated videos/images using deep learning.
+### 🔹 SeaShield AI
+AI-driven platform to detect disaster-related hazards using NLP and computer vision. Processes real-time social media data and validates imagery for actionable insights.
 
-### 🔹 Full Stack Web Apps
-Built responsive websites with authentication, APIs, and database integration.
+### 🔹 AI Study Buddy
+Full-stack AI web app built using Flask and OpenAI API to answer study queries with structured explanations via REST endpoints.
 
-### 🔹 Startup / Product Experience
-Co-founded a clothing brand and handled:
-- Product management  
-- Website operations  
-- Social media strategy  
-- Customer handling  
+---
+
+## 💼 Experience
+
+### Product Developer & Manager — Zigkshop
+- Co-founded and managed a clothing startup  
+- Led product development and design  
+- Handled social media growth and user engagement  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sankalpcodes-alt&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankalpcodes-alt&theme=tokyonight" />
 </p>
 
 ---
@@ -83,7 +93,7 @@ Co-founded a clothing brand and handled:
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sankalpcodes-alt&theme=onedark" />
 </p>
 
 ---
